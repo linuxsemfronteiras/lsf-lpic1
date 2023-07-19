@@ -1,0 +1,3 @@
+Este arquivo foi gerado no Linux
+para exemplificar a aula sobre o comando tr
+no curso LPIC-1
